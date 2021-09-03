@@ -25,7 +25,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'/resumeData.json',
+      url:'https://my-json-server.typicode.com/ashray-github/ResumeData/db',
       dataType:'json',
       cache: false,
       success: function(data){
