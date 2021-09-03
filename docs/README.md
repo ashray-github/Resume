@@ -71,3 +71,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Resume project manipulated using
 https://github.com/tbakerx/react-resume-template
+
+### Useful commands
+`git add .`
+`git commit -m "Commit message"`
+`git push`
+
+From application
+`npm install gh-pages --save`
+`npm run deploy`
+
+`npm install gh-pages --save-dev`
+`npm run deploy`
